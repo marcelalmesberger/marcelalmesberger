@@ -2,7 +2,7 @@
 
 I'm Marcel a Biomedical Scientist with a master's degree in Digital Healthcare.
 
-## Interests
+## Skills
 
 * UX-Design 
 * Frontend-Development
