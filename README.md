@@ -1,6 +1,7 @@
 # Welcome to my GitHub profile! 👋
 
-I'm Marcel a Biomedical Scientist with a master's degree in Digital Healthcare.
+I'm Marcel a Biomedical Scientist with a master's degree in Digital Healthcare. This study allowed me to combine
+my passion for web development with my healthcare background. 
 
 ## Skills
 
