@@ -1,3 +1,7 @@
-# Hi, I'm Marcel! 👋
+# Welcome to my GitHub profile! 👋
+
+I'm Marcel
+
+## Technologies & Tools
 
 
