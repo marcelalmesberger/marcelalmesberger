@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! 👋
 
-I'm Marcel, a Biomedical Scientist with a master's degree in Digital Healthcare. I'm interested in UX design, 3D and game development. 
+I'm Marcel, a Biomedical Scientist with a master's degree in Digital Healthcare. I'm interested in Health Apps, UX design, 3D and game development. 
 
 ## Skills
 
@@ -13,6 +13,7 @@ I'm Marcel, a Biomedical Scientist with a master's degree in Digital Healthcare.
 ## Technologies & Tools
 
 * HTML, CSS, JavaScript, Python
-* Inkscape, GIMP, Scribus, Adobe XD
+* Basics HL7, LOINC, DICOM
+* Krita, Inkscape, GIMP, Scribus, Adobe XD
 * Blender
 * Ren'Py
